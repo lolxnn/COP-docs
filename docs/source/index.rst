@@ -5,12 +5,12 @@ Documentazione Consolle-Operatore
 
 .. note::
 
-   This project is under active development.
+   Documentazione in sviluppo
 
 Contents
 --------
 
 .. toctree::
 
-   Installazione
-   Uso
+   installazione
+   uso
