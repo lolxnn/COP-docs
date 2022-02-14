@@ -16,6 +16,7 @@ Contents
 .. toctree::
 
    installazione
+   usage
    uso
    caratteristiche_tecniche
    caratteristiche_funzionali
